@@ -1,0 +1,10 @@
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+# 文本编辑器临时文件
+.vscode/
+.swp
+*~
